@@ -17,7 +17,7 @@ This code is for educational and authorized testing purposes only.
 Do not use for unauthorized activities. The author assumes no liability 
 for misuse or damage caused by this script.
 
-License: MIT License (Optional: Add if applicable)
+License: MIT License
 ===========================================================================
 """
 
